@@ -6,14 +6,6 @@ This repository contains my personal collection of algorithm solutions in variou
 
 Each folder in this repository represents a different algorithm or problem, containing solutions in different programming languages, along with explanations and notes.
 
-## Contents
-
-- `3Sum Problem`
-  - `python/`: Solution in Python.
-  - `hack/`: Solution in Hack (by Meta).
-  - `ruby/`: Solution in Ruby.
-  - `README.md`: Explanation of the problem and overview of each solution.
-
 ## Usage
 
 You can browse through each folder to see the solutions in different languages. Each folder contains a `README.md` file with specific details about the problem and the approach used in the solutions.
